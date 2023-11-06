@@ -1,0 +1,369 @@
+1. The full form of CSS is:
+a. Cascading Style Sheets
+b. Coloured Special Sheets
+c. Color and Style Sheets
+d. None of the above
+
+
+2. How can we change the background color of an element?
+a. background-color
+b. color
+c. Both A and B
+d. None of the above
+
+
+3. How can we change the text color of an element?
+a. background-color
+b. color
+c. Both A and B
+d. None of the above
+
+
+d. In how many ways can CSS be written in?
+a. 1
+b. 2
+c. 3
+d. 4
+
+
+5. What type of CSS is the following code snippet?
+
+<h1 style="color:blue;">A Blue Heading</h1>
+a. Inline
+b. Internal
+c. External
+d. None of the above
+
+
+6. What type of CSS is generally recommended for designing large web pages?
+a. Inline
+b. Internal
+c. External
+d. None of the above
+
+
+7. Which HTML tag is used to declare internal CSS?
+a. <style>
+b. <link>
+c. <script>
+d. None of the above
+
+
+
+
+
+
+8. How can we select an element with a specific ID in CSS?
+a. #
+b. ^
+c. None of the above
+
+
+9. How can we select an element with a specific Class in CSS?
+a. #
+b. .
+c. ^
+d. None of the above
+
+
+10. How can we write comments in CSS?
+a. /* */
+b. //
+c. #
+d. All of the above
+
+
+11. In the below code snippet, in what order will the margins be added?
+
+p {
+  margin: 25px 50px 75px 100px;
+};
+a. Top, Right, Bottom, Left
+b. Top, Left, Bottom, Right
+c. Top, Bottom, Right, Left
+d. Right, Left, Top, Bottom
+
+
+12. Can negative values be allowed in the padding property?
+a. Yes
+b. No
+c. Depends on property
+d. None of the above
+
+
+13. The CSS property used to specify the transparency of an element is?
+a. opacity
+b. visibility
+c. filter
+d. None of the above
+
+
+14. How can we specify the spacing between each letter in a text in CSS?
+a. alpha-spacing
+b. letter-spacing
+c. character-spacing
+d. None of the above
+
+
+15. What is the correct syntax for referring to an external CSS?
+a. <link rel="stylesheet" type="text/css" href="style.css">
+b. <style rel="stylesheet" type="text/css" href="style.css">
+c. Both A and B
+d. None of the above
+
+
+16. Which of the following are valid ways to represent a color in CSS?
+a. A valid color name
+b. RGB values
+c. HEX values
+d. All of the above
+
+
+17. Which is the correct way to select all h1 headers in a div element?
+a. div h1
+b. div-h1
+c. h1
+d. None of the above
+
+
+18. We can make rounded borders around elements using which CSS element?
+a. border-collapse
+b. border-round
+c. border-radius
+d. None of the above
+
+
+19. How can we use CSS to set the maximum width of the element's content box?
+a. height property
+b. max-height property
+c. max-width property
+d. None of the above
+
+
+20. Which CSS property is used to specify different border styles?
+a. border-style
+b. border
+c. Both A and B
+d. None of the above
+
+21. Which of the following property specifies the look and design of an outline?
+a. outline-style
+b. outline
+c. outline-font
+d. None of the above
+
+
+22. Which of the following are valid CSS position property values?
+a. static
+b. relative
+c. fixed
+d. All of the above
+
+
+
+
+23. What does the inherit value for a property do?
+a. Inherits the value of the parent element.
+b. Invalid property name.
+c. Changes the value of the parent element’s property.
+d. None of the above
+
+
+24. Setting an inline-block in CSS requires which of the following properties?
+a. display
+b. color
+c. block
+d. None of the above
+
+
+25. Which of the following CSS properties is used for controlling the layout?
+a. display
+b. color
+c. text
+d. None of the above
+
+
+26. Which of the following CSS property specifies the origin of the background image?
+a. background-origin
+b. background-size
+c. origin
+d. None of the above
+
+
+27. How are custom fonts defined using CSS?
+a. @font-face rule.
+b. Custom fonts cannot be defined.
+c. src tags.
+d. None of the above
+
+
+28. Which of the following are parts of the CSS box model?
+a. Margins
+b. Borders
+c. Padding
+d. All of the above
+
+
+29. Which of the following components of the CSS box model are transparent?
+a. Padding
+b. Margin
+c. Both A and B
+d. Content
+
+
+30. What will be the width of the div element given below?
+
+div {
+  width: 310px;
+  padding: 20px;
+  border: 5px solid blue;
+  margin: 0;
+}
+a. 310px
+b. 350px
+c. 360px
+d. None of the above
+
+
+31. Which of the following can be achieved with CSS lists?
+a. Set different list item markers for ordered lists
+b. Set different list item markers for unordered lists
+c. Set an image as the list item marker
+d. All of the above
+
+
+32. Which of the following CSS property specifies the type of list item marker?
+a. list
+b. list-style-type
+c. ul
+d. ol
+
+
+33. What value should be passed to the width parameter if we want an element, say a table, to span the entire width of the screen?
+a. 100%
+b. 50%
+c. 0%
+d. None of the above
+
+
+34. Which properties are used to align text in CSS?
+a. text-align
+b. text-alignment
+c. text
+d. text-position
+
+
+35. Which is the correct approach to make a table responsive?
+a. overflow-x: auto
+b. overflow-x: none
+c. Both A and B
+d. None of the above
+
+
+36. Which CSS properties specify the stack order of elements?
+a. z-index
+b. overlap
+c. No such specific property is present
+d. None of the above
+
+
+37. Which of the following CSS properties creates a clipping region and specifies the visible area of the element?
+a. visibility
+b. clip-path
+c. Both A and B
+d. None of the above
+
+
+38. What are the uses of CSS pseudo-elements?
+a. Style specified parts of an element.
+b. Style the first letter or line of an element.
+c. Insert content before or after the element.
+d. All of the above.
+
+
+
+
+39. How can we select elements with a specified attribute in CSS?
+a. [attribute] selector
+b. [property] selector
+c. Both A and B
+d. None of the above
+
+
+40. Which of the following are types of length units in CSS?
+a. Absolute
+b. Relative
+c. Both A and B
+d. None of the above
+
+
+41. Which of the following are units of relative length in CSS?
+a. em
+b. rem
+c. vmax
+d. All of the above
+
+
+42. What parameter does the calc() function in CSS take?
+a. A sentence
+b. A mathematical expression
+c. A number
+d. None of the above
+
+
+43. How can we add more importance to a property/value than normal?
+a. !important
+b. important
+c. bold
+d. None of the above
+
+
+44. Which CSS property specifies the painting area of the background?
+a. background-size
+b. background-clip
+c. background-image
+d. None of the above
+
+
+45. What are the different types of gradients in CSS?
+a. Linear Gradients
+b. Conic Gradients
+c. Radial Gradients
+d. All of the above
+
+
+46. Which CSS property is used to create an image reflection?
+a. box-reflect
+b. image-reflect
+c. reflect-img
+d. None of the above
+
+
+47. The transparent keyword is equivalent to which RGBA() value in CSS?
+a. RGBA(0, 0, 0, 1)
+b. RGBA(255, 255, 255, 1)
+c. RGBA(0, 0, 0, 0)
+d. RGBA(255, 255, 255, 0)
+
+
+48. What function is used to insert values of a CSS variable?
+a. var()
+b. rand()
+c. varchar()
+d. calc()
+
+
+
+
+49. What syntax is for writing CSS Variables using the var() function?
+a. var(--name, value)
+b. var(--name)
+c. var(value)
+d. None of the above
+
+
+50. How many layout modes existed before the Flexbox Layout Module was introduced in CSS?
+a. 1
+b. 2
+c. 3
+d. 4
